@@ -1,0 +1,50 @@
+html {
+  background-color: #707070;
+}
+body {
+  max-width: 1000px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #999990;
+}
+p {
+  color: black;
+  margin: 5px;
+}
+h1 {
+  text-align: center;
+  margin: 0px;
+}
+div {
+  max-width: 1000px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid;
+  background-color: black;
+}
+hr {
+  margin: 0px;
+  border: 5px solid;
+}
+th {
+  margin: 0px;
+}
+.display_image {
+  max-width: 100%;
+  height: auto;
+  margin: 12.5px;
+}
+.center {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.white {
+  color:#808080;
+}
